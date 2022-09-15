@@ -1,0 +1,79 @@
+.navbar{
+    display: flex;
+    background-color: black;
+    height: 100px;
+}
+body{
+    margin: 0px;
+    padding: 0%;
+    background-image: url(./assets/bg.png);
+}
+
+.navbar div img{
+    padding: 25px 50px;
+}
+.line{
+    margin: 10px;
+    border: 1px solid white;
+}
+.grow-list{
+    position: absolute;
+    left: 20%;
+    top:-10PX;
+    display: flex;
+    color: white;
+    font-size: 22PX;
+}
+.list-item{
+    list-style-type: none;
+    padding-left: 50px;
+    float: left;
+}
+.list{
+padding-top: 25px;
+}
+
+.button-small{
+    position: absolute;
+    left: 82%;
+    top: 40px;
+    background-color: #E03B8B;
+    padding: 8px 25px;
+    border-radius: 5px;
+    color: white;
+}
+.hero{
+    display: block;
+}
+.hero-heading{
+    font-family: Montserrat;
+    POSITION: ABSOLUTE;
+    MAX-WIDTH: 1027PX;
+    FONT-SIZE: 90PX;
+    LEFT: 10%;
+    TOP: 20%;
+    TEXT-ALIGN: center;
+    color: white;
+}
+.hero-description{
+    font-family: Poppins;
+    POSITION: ABSOLUTE;
+   
+    FONT-SIZE: 24PX;
+    LEFT: 30%;
+    TOP: 58%;
+    TEXT-ALIGN: center;
+    color: white;
+}
+.button-large{
+    font-family: Montserrat;
+    position: absolute;
+    left: 35%;
+    top: 72%;
+    background-color: #E03B8B;
+    padding: 19px 60px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    FONT-SIZE: 20PX;
+}
