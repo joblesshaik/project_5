@@ -3,8 +3,7 @@
 
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT----lightgrey)
-![Project 5](https://img.shields.io/badge/Project-5-grey)
+
 
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
@@ -13,7 +12,7 @@
 
 # [ LIVE](https://lcoproject15.netlify.app)
 
- ![complete Website](thumnail.png)
+ ![complete Website](thumbnail.png)
 
  ## Technologies used
 
